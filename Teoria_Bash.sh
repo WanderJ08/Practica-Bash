@@ -124,6 +124,7 @@ foo arg1 arg2
 # Para capturar el valor de retorno se utiliza $?
 resultValue=$?
 
+
 # Tambien se pueden declarar sin la palabra function antes
 bar ()
 {
